@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/JavaScript-C8A2C8?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-C8A2C8?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-C8A2C8?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-C8A2C8?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <h4 align="center">🔹 Frameworks e bibliotecas</h4>
