@@ -1,11 +1,11 @@
-# 🌷 Maria Cecilia
+# 🌷 Cecilia Gomes
 
-✨ Oi! Eu sou a Maria Cecilia, tenho 22 anos.  
+✨ Oi! Eu sou a Maria Cecília Gomes, tenho 22 anos.  
 🎓 Tenho formação técnica em Informática e atualmente curso Análise e Desenvolvimento de Sistemas.  
 
 ---
 
-<h3 align="center">Tecnologias que uso</h3>
+<h3 align="center"> Tecnologias que uso</h3>
 
 <h4 align="center">🔹 Linguagens de programação</h4>
 <p align="center">
